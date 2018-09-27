@@ -1,9 +1,5 @@
 #!/bin/bash
 #
-# Requirements:
-# - openconnect
-# - curl
-
 
 config_file=~/.pulse
 
