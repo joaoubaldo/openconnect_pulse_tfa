@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 
-config_file=~/.pulse
+config_file=~/.pulsevpn
 
 if [ "$1" != "" ]; then
   config_file="$1"

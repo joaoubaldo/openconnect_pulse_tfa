@@ -7,7 +7,7 @@ This script simplifies connecting to PulseVPN servers with Two-Factor-Authentica
 - curl
 
 ## Usage
-1. Create the config file `~/.pulse` with 3 lines:
+1. Create the config file `~/.pulsevpn` with 3 lines:
 ```
 https://pulse.vpn.site
 username
