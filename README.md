@@ -1,5 +1,7 @@
 # OpenConnect Pulse TFA script
 
+## Obsolete - use this scripts instead https://github.com/russdill/juniper-vpn-py
+
 This script simplifies connecting to PulseVPN servers with Two-Factor-Authentication enabled.
 
 ## Requirements
